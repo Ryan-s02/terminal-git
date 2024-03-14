@@ -1,3 +1,5 @@
 This is my first vi file of this bootcamp.
 
 This is my second line/re-entering the vi file 
+new change
+
